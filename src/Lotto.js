@@ -12,6 +12,10 @@ class Lotto {
     }
   }
 
+  getValidate() {
+    return this.#validate;
+  }
+
   // TODO: 추가 기능 구현
 }
 
